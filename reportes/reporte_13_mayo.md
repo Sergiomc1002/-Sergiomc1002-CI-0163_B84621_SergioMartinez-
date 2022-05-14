@@ -1,5 +1,7 @@
 Sergio Martínez Calvo B84621
+
 Análisis de Grandes Volúmenes de Datos
+
 Reporte 02
 
 En estas últimas semanas de curso vimos principalmente los temas de algoritmos para machine learning basados en árboles de decisión y también entrenamiento y validación de modelos, con énfasis en los métodos de _cross validation_.
